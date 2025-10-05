@@ -464,7 +464,6 @@ Special thanks to these amazing projects:
 
 Need help with DataScribe?
 
-- 📧 **Email**: karthik@datascribe.dev
 - 💬 **Issues**: [Open an issue](https://github.com/FoldedOdin/DataScribe/issues)
 - 📖 **Wiki**: [Documentation](https://github.com/FoldedOdin/DataScribe/wiki)
 
