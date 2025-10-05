@@ -14,7 +14,7 @@ from PyPDF2 import PdfReader
 from datetime import datetime
 
 # ===== CONFIG =====
-INPUT_DIR = "C:\\PROJECT\\AuaCahin-ML\\PDF to CSV\\PDF"
+INPUT_DIR = "C:\\PROJECT\\PDF to CSV\\PDF"
 OUTPUT_FILE = "merged_dataset.csv"
 TEMP_DIR = "temp_csvs"
 LOG_FILE = "extraction_log.txt"
