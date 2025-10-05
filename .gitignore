@@ -1,0 +1,7 @@
+*.csv
+temp_csvs/
+__pycache__/
+dataset/
+Html to PDF/
+*.txt
+PDF/
